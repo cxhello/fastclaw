@@ -239,6 +239,8 @@ export interface ConfigResponse {
     e2bTemplate?: string;
     boxliteSnapshot?: string;
     e2bKey?: string;
+    e2bApiUrl?: string;
+    e2bDomain?: string;
     boxliteUrl?: string;
     boxliteClientId?: string;
     boxliteKey?: string;
